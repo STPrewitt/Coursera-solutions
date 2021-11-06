@@ -9,7 +9,7 @@ body {
 	background-color: white;
 	text-align: center;
 	color: black;
-	margin-bottom: 30px;
+
 	
 }
 h1 {
@@ -20,47 +20,57 @@ h1 {
 	font-weight: bold;
 	font-size: 125%;
 	width: 30%;
-	
 	text-align: center;
 	float: right;
 	clear: left;
 	background-color: pink;
-	border: 1px solid black	
+	border-left: 1px solid black;
+  border-bottom: 1px solid black;
+  position: relative;
+  top: -10px;
+  right: -10px;
 }
 .highlight-2 {
 	font-weight: bold;
 	font-size: 125%;
 	color:  white;
 	width: 30%;
-	
 	text-align: center;
 	float: right;
 	clear: left;
 	background-color: red;
-	border: 1px solid black
+	border-left: 1px solid black;
+  border-bottom: 1px solid black;
+  position: relative;
+  top: -10px;
+  right: -10px;
 }
 .highlight-3 {
 	font-weight: bold;
 	font-size: 125%;
 	width: 30%;
-	
 	text-align: center;
 	float: right;
 	clear: left;
 	background-color: gold;
-	border: 1px solid black
+	border-left: 1px solid black;
+  border-bottom: 1px solid black;
+  position: relative;
+  top: -10px;
+  right: -10px;
 }
 .description {
 	margin-left: 15px;
-	margin-right: 15px;
+	margin-right: 10px;
 	float: right;
-	margin-bottom: 30px;
-	padding: 0px 1px 5px 5px;
+	margin-bottom: 20px;
+	padding: 10px 10px 0px 10px;
 	background-color: lightgrey;
 	color: black;
 	border: 1px solid black;
-	text-align: left
+	text-align: left;
 }
+
 
 /* Simple Responsive Framework. */
 .row {
