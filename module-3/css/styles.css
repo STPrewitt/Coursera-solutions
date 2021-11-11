@@ -1,16 +1,48 @@
 body {
-	background-color: white;
+	background-color: whitesmoke;
 }
+
 header {
   background-color: lightgrey;
-
 }
+
 .navbar-brand {
   text-shadow: 2px 2px 2px grey;
-  padding-left: 5vw;
 }
+
 .mobile-menu {
 text-align: center;
-background-color: darkgrey;
+background-color: lightyellow;
+}
 
+.nav-button {
+  margin-right: 3vw;
+  background-color: lightyellow;
+}
+
+#top {
+  margin-top: 10px;
+}
+
+#main-content {
+  height: 1000px;
+}
+
+.desc-title {
+  font-weight: bold;
+  font-size: 120%;
+  
+}
+
+.description {
+  height: 700px;
+  margin-left: 15px;
+  margin-right: 10px;
+  float: right;
+  margin-bottom: 20px;
+  padding: 10px 10px 0px 10px;
+  background-color: lightgrey;
+  color: black;
+  border: 1px solid black;
+  text-align: left;
 }
