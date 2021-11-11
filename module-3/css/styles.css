@@ -3,11 +3,14 @@ body {
 }
 header {
   background-color: lightgrey;
-  padding-left: 1vw;
+
 }
 .navbar-brand {
   text-shadow: 2px 2px 2px grey;
-  padding-left: 5vw;}
-.nav-button {
+  padding-left: 5vw;
+}
+.mobile-menu {
+text-align: center;
+background-color: darkgrey;
 
 }
