@@ -1,0 +1,13 @@
+body {
+	background-color: white;
+}
+header {
+  background-color: lightgrey;
+  padding-left: 1vw;
+}
+.navbar-brand {
+  text-shadow: 2px 2px 2px grey;
+  padding-left: 5vw;}
+.nav-button {
+
+}
