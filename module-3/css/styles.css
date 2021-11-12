@@ -6,6 +6,10 @@ header {
   background-color: lightgrey;
 }
 
+h2 {
+  margin-top: 10px;
+}
+
 .navbar-brand {
   text-shadow: 2px 2px 2px grey;
 }
@@ -15,13 +19,17 @@ text-align: center;
 background-color: lightyellow;
 }
 
+.nav-item {
+  border-bottom: 2px solid black;
+}
+
 .nav-button {
   margin-right: 3vw;
   background-color: lightyellow;
 }
 
 #top {
-  margin-top: 10px;
+  margin-top: 1px;
 }
 
 #main-content {
